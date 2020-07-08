@@ -7,3 +7,4 @@ The notebooks are meant to serve these purposes (short-listed):
 * ensure a greater flexibility of file transfers to/from various geoscience software
 * reduce the barrier to using python and other programming languages in the geosciences
 * to learn
+* spur collaboration and re-vamp any outdated workflows
